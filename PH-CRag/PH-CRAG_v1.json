@@ -1,0 +1,3972 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Notion",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2015-09-14",
+    "url": "https://www.producthunt.com/products/notion",
+    "description": "Notion is an all-in-one workspace that combines note-taking, project management, and task organization. It allows users to create customized databases, documents, and calendars to streamline their personal and professional workflows.",
+    "comments": [
+      {
+        "doc_id": "P001_C1",
+        "subproduct_name": "Notion 2.0",
+        "text": "A big thanks from me. Currently paying for Notion as its an indispensable tool for writing my next week, pretty much everything is being done in Notion and with the latest update I am heavily considering moving *everything* in the process to Notion. The tool also gets a nice shout-out in the book itself!",
+        "comment_upvotes": 7,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C2",
+        "subproduct_name": "Notion 2.0",
+        "text": "This is what I've been wondering all day. I'm super excited to try it out, but I have no idea when it's actually coming out. ",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C3",
+        "subproduct_name": "Notion 2.0",
+        "text": "It does not do really well at quick note taking or brainstorming alot",
+        "comment_upvotes": 5,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C4",
+        "subproduct_name": "Notion 2.0",
+        "text": "They do have a Personal Plan now and it's really cheap. They set the barrier for entry quite low.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C5",
+        "subproduct_name": "Notion 2.0",
+        "text": "I have  been using this in private beta and can't emphasise enough how impressed ",
+        "comment_upvotes": 33,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C6",
+        "subproduct_name": "Notion 2.0",
+        "text": "Notion is so powerful, it's the first thing since mind mapping to seem like a viable way to get out my rapid stream of thoughts and organize them! The new release, from my short view is just another step in a massive featureset that feels like the perfect mix of desktop wiki, notes app, markdown (or markdown-esque) editor, with collaborations and now tables.",
+        "comment_upvotes": 14,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C7",
+        "subproduct_name": "Notion 2.0",
+        "text": "Notion is WAY more than a to-do app.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C8",
+        "subproduct_name": "Notion 2.0",
+        "text": "Notion is my favorite tool EVER, you guys have a lifetime customer here. ",
+        "comment_upvotes": 7,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C9",
+        "subproduct_name": "Notion 2.0",
+        "text": "We've been using Notion at Canny on a daily basis for a while now. From our daily standups to our interview pipeline, Notion is the home for our docs.",
+        "comment_upvotes": 9,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C10",
+        "subproduct_name": "Notion 2.0",
+        "text": "I really want to use Notion as a repository of useful links for my teams",
+        "comment_upvotes": 6,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C11",
+        "subproduct_name": "Notion 2.0",
+        "text": "Tested the beta for a while and I must say I was so impressed from day one. V2 is a masterpiece of usability. Notion crams so much functionality into each page while keeping interface extremely clean, understandable and usable, that it feels almost incredible. I truly believe this is a milestone in the history of UX design..",
+        "comment_upvotes": 6,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C12",
+        "subproduct_name": "Notion 2.0",
+        "text": "It can be completely tailored to your own use, so if you're not interested in this feature or that feature, just don't use them and they'll get out of your way.",
+        "comment_upvotes": 6,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C13",
+        "subproduct_name": "Notion 2.0",
+        "text": "I love the potential to replace Asana with Notion. ",
+        "comment_upvotes": 6,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C14",
+        "subproduct_name": "Notion 2.0",
+        "text": "I switched over EVERYTHING from most of my other productivity and task management products, since 2.0 added not only brilliant features but a great new way to show them as if they were in production. ",
+        "comment_upvotes": 5,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C15",
+        "subproduct_name": "Notion 2.0",
+        "text": "A huge Thank you to Ivan and the Notion Team for creating a workspace that has the power and the flexibility to substitute many of the apps that we use in our Agency today.",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C16",
+        "subproduct_name": "Notion 2.0",
+        "text": "I've been really impressed so far and without a doubt it's a useful, albeit polarizing product. Even with its alternative UX paradigms and slight learning curve, it's become an indispensable tool for knowledge sharing and collaboration. Keep it up!.",
+        "comment_upvotes": 4,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C17",
+        "subproduct_name": "Notion 2.0",
+        "text": "Notion has been the tool that I've waited for all my life. For personal use, it has completely replaced Evernote for me.",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C18",
+        "subproduct_name": "Notion 2.0",
+        "text": "The desktop apps are Electron, right? But there's no Linux version??",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C19",
+        "subproduct_name": "Notion 2.0",
+        "text": "This is where I organize all my (personal + company) knowledge base. One of the most underrated features is the ability for anyone, especially nontechnical, to build and publish good-looking pages so easily.",
+        "comment_upvotes": 3,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C20",
+        "subproduct_name": "Notion 2.0",
+        "text": "Been using notion for the past few weeks and really like it. I",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C21",
+        "subproduct_name": "Notion 2.0",
+        "text": "I use this tool everyday and been waiting for this update! Looking forward to try it out ",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C22",
+        "subproduct_name": "Notion 2.0",
+        "text": "Needs a chat feature, a refresh button, and better columns/blocks.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C23",
+        "subproduct_name": "Notion 2.0",
+        "text": "Notion is a beautiful online text editor that helps put things in order. .",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C24",
+        "subproduct_name": "Notion 2.0",
+        "text": "Please add option for reminders need to be repeated by daily, weekly, monthly and yearly with time, sometime multiple days in a week on specific time.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C25",
+        "subproduct_name": "Notion 2.0",
+        "text": "The new features in Notion 2.0 look absolutely stunning and I can't wait to test them out.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C26",
+        "subproduct_name": "Notion 2.0",
+        "text": "Was thrilled and extremely surprised to see everything drop yesterday. ",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C27",
+        "subproduct_name": "Notion 2.0",
+        "text": "Notion has been great for us, we use it for everything! its the best tool we could find after 2 years of looking..",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C28",
+        "subproduct_name": "Notion 2.0",
+        "text": "Please keep focus on speed and performance and keeping experience light weight, although it's an advanced product.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C29",
+        "subproduct_name": "Notion 2.0",
+        "text": "Missing calendar view to zoom in to day to see and plan hours.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P001_C30",
+        "subproduct_name": "Notion 2.0",
+        "text": "Android app is not mature enough (cross platform i guess)- Support team is not good enough- Pricing",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C31",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "I've been using it for a few weeks now, and I'm really impressed. The thinking that went into designing Notion was clearly a cut above the rest. Nice work on it so far, can't wait to see where you all take it.",
+        "comment_upvotes": 10,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C32",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "The best part is structuring. Being able to nest pages, link across and control access domain/email/public is killer. The team reached out to me for feedback and have been integrating some of my suggestions which feels great.",
+        "comment_upvotes": 31,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C33",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "Notion is awesome.It's different from most (web) content editors because it's *not* entirely subservient to document flow. It actually gives a few well-picked layout tools, and that makes all the difference",
+        "comment_upvotes": 15,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C34",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "First impressions: Phenomenal.",
+        "comment_upvotes": 10,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C35",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "The most creative solution to content creation and communication I have seen in awhile.",
+        "comment_upvotes": 8,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C36",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "Notion is probably one of my top 3 most used products, both for personal and business stuff. It's incredibly flexible and powerful.",
+        "comment_upvotes": 8,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C37",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "Absolutely fantastic. I've got dozens of hours of use down at this point and Notion just completely blows away apps like Google Docs and Paper.",
+        "comment_upvotes": 6,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C38",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "A lot of interesting features and good UI decisions. ",
+        "comment_upvotes": 5,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C39",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "This is the finest thing I've seen in forever. Notion is basically my dream product on steroids, only little thing I'm missing is support for markdown. ",
+        "comment_upvotes": 4,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P001_C40",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "I use this tool to plan and schedule my weekly and daily work and there's no other tool I've come across that would do it so well! You most definitely need to check it out!",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C41",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "Love the simplicity of this tool, but more than anything I appreciate the focus the tool has on bringing several tools together in one place",
+        "comment_upvotes": 3,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C42",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "I use it every day for my work and private projects.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C43",
+        "subproduct_name": "Notion 1.0 Web + Mac App",
+        "text": "I use Notion for meeting note, product road map, feature docs and other personal stuff. So flexible, so powerful. When they release iOS app too, it will have the perfect eco system that I've been looking for.",
+        "comment_upvotes": 2,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C44",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "Notion + collaborative AI is a dream combination. I could not be more excited to work with this!",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C45",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "Most of our startup clients are using Notion exclusively for writing in the context of knowledge management and internal comms, so I can't wait to see how we can help them move even faster and work more productively with this tech!!",
+        "comment_upvotes": 16,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C46",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "This is the beginning of a new era where humans and AI intersect. Can't wait to see how this will shape up how people work!",
+        "comment_upvotes": 9,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C47",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "I believe it will mark a new era where Notion will lead the way. Can't wait to get my hands on it.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C48",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": " I'd hate to see y'all buy into the lie that AI is the future of productivity, when it's so obviously not. AI has a lot of exciting potential, but it can't and shouldn't be positioned as something that can function as a substitute for human ingenuity.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C49",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "This is simply not where the power of AI belongs, and it's presenting a very unfortunate picture of where Notion envisions the future of productivity moving.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C50",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "This is one of the most incredible and unexpected things from Notion",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C51",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "Notion AI is the future of digital platforms, but it should not replace the emotions and intuition that people have, therefore I appeal that this innovation should be taken more responsibly and all of the participants should be transparent with each other.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C52",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "What an amazing move, there is no doubt that Notion AI can boost my team's productivity.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C53",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "Notion has always helped me manage my tasks at college and work so super psyched about these new features",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C54",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "The page to Join the waitlist is not working So sad! was looking forward to try it!",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C55",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "I can't even get over how mind-blowing this is! I can't wait to jump in and start using it.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C56",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "A decent product for project and work management. Creating drafts is the biggest headache and Notion helps me a lot.",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C57",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "I'm so glad that Notion is moving towards features like this.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C58",
+        "subproduct_name": "Notion AI (Alpha)",
+        "text": "I'm very interested to try this new version of Notion supercharged with the latest ML models.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C59",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Notion.so continues to be one of the apps I use on a daily basis, and their commitment to consistently rolling out new features is turning me from a comfortable user into a raving fan. You guys are doing awesome work, keep it up!",
+        "comment_upvotes": 12,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C60",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Keep up the amazing work Notion team, and promise to bless us all with embedding and/or custom domain hosting sooner rather than later. ",
+        "comment_upvotes": 8,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C61",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Templates were kind of available before but having a single place with all of them makes this feature more discoverable.",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C62",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "I was literally discussing how badly needed this was yesterday with a co-worker. We were optimistic that this would be in a release in the coming months. I never would have guessed that it would be the very next morning!",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P001_C63",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Nice idea with the templates. Will definately save me lots of time when using Notion!",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C64",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Introduces new ways to use Notion I hadn't considered before ,Interesting to see how other actual people use the product",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C65",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Love this gallery of templates by Notion. They are so thoughtful and well designed. No doubt Notion is the best platform out there which is collaborative and creative. I'm a satisfied daily active user and excited to test these templates. .",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C66",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "I've been using the web for business since about 1997. In all that time, I don't think I've found a more useful app/software/thing to use than notion.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C67",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "this is a good way to get the support of the public so that you can ensure your success. ",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C68",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "I've been waiting for this. Really great work and even better SEO strategy for more people to find out about Notion..",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C69",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Effortless UX with only the slightest learning curve. Always surprises me with new use cases. Only good things to say about Notion.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C70",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Might be the reason I finally use Notion and get proficient ",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C71",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "My productivity increased! It's easy to do lists, write things like documentation, notes... It's an all in one app!.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C72",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Notion is one of the best tools I've ever used. Our team is located in 3 different countries and we tried everything to get everyone on the same page. Notion does everything we've ever wanted and we are constantly figuring out new ways to use it. ",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C73",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Great idea with templates. I was using them for the past few days and they speed-up my workflow tremendously!.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C74",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "Notion and the templates have saved me so much time. I've been looking for one tool that could manage information, writing, planning, projects, basically my life and brain. Notion is the only product that meets my needs. I admit that I was overwhelmed in the beginning because it is so customizable and has so many capabilities.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C75",
+        "subproduct_name": "Notion Template Gallery",
+        "text": "The product is recommendable to all my friends it is a good product.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C76",
+        "subproduct_name": "Notion for iOS",
+        "text": "Can't recommend these guys enough. They have a unique product which can be used to create visually malluable and capable documents. The potential here is huge..",
+        "comment_upvotes": 21,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C77",
+        "subproduct_name": "Notion for iOS",
+        "text": "It's the best note taking app by far and I use it for almost everything, from planning, writing documents, note taking, issue tracking, literally whatever... It grows steadily and it's well supported, with new features coming out frequently. ",
+        "comment_upvotes": 17,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C78",
+        "subproduct_name": "Notion for iOS",
+        "text": "It does work offline, it shows a OFFLINE tag and sync the info whenever it gets a connection.",
+        "comment_upvotes": 2,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P001_C79",
+        "subproduct_name": "Notion for iOS",
+        "text": "I use Notion from the first day that they launched their app. I was a beta tester and use iOS app few months. If I have problems I write to support and they solve my problems as soon as possible. .",
+        "comment_upvotes": 4,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P001_C80",
+        "subproduct_name": "Notion for iOS",
+        "text": "I love love love Notion for desktop, and this makes it so much easier to keep notes on the go. Super exciting!",
+        "comment_upvotes": 3,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C81",
+        "subproduct_name": "Notion for iOS",
+        "text": "I just setup my Team on Notion. They say it best: With so many tools, it's hard to keep everyone on the same page.",
+        "comment_upvotes": 2,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C82",
+        "subproduct_name": "Notion for iOS",
+        "text": "Notion launches on iOS. Looking forward to exploring!",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C83",
+        "subproduct_name": "Notion for iOS",
+        "text": "Notion can do it all. When other apps have said that, they'd have some glaring weak points where they'd stretched themselves thin. Notion has none of those.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C84",
+        "subproduct_name": "Notion for iOS",
+        "text": "Easily the most inovative product i've seen last years. They have work so hard for weekly update and it's now a tool i use everyday ",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C85",
+        "subproduct_name": "Notion for iOS",
+        "text": "Smaller screens make it tough to edit!",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C86",
+        "subproduct_name": "Notion for iOS",
+        "text": "The options are endless, Notion could be anything you want it to be, from task board to a wiki. Really!",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C87",
+        "subproduct_name": "Notion for iOS",
+        "text": "I've been heavily using Notion mainly as an internal knowledge base for @Awecelot and also as a flexible intranet replacement with my clients!",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C88",
+        "subproduct_name": "Notion for iOS",
+        "text": "Notion's fluid formatting makes it super easy for anyone to get thoughts on to paper. Formatting is super easy, sure, but each element is Markdown compatible! Incredible!",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C89",
+        "subproduct_name": "Notion for iOS",
+        "text": "Good for doing documents for my project.Easy to setup task list, write down wikis, and codes/scripts.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C90",
+        "subproduct_name": "Notion for iOS",
+        "text": "I use Notion with my teammates. We are really happy using it for collection data, planning tasks and creating docs. 5/5!",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C91",
+        "subproduct_name": "Notion for iOS",
+        "text": "It will be more helpful if Notion can import from Onenote. besides, if i could export from other ios app to Notion, it will be great!",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C92",
+        "subproduct_name": "AI Meeting Notes by Notion",
+        "text": "I've been using it daily as my meeting companion. As feedback, when switching between languages during the day, the feature does not respond properly, keeping the previous language.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C93",
+        "subproduct_name": "AI Meeting Notes by Notion",
+        "text": "This upgrades the entire notion setup.",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C94",
+        "subproduct_name": "AI Meeting Notes by Notion",
+        "text": "Waiting for support of Hindi. Our team workflows and meetings rely on the use of Hindi and English as the primary communication modes. Notion would be super helpful then!!",
+        "comment_upvotes": 2,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P001_C95",
+        "subproduct_name": "AI Meeting Notes by Notion",
+        "text": "Notion slowly getting worse as they continue to shove AI slop into their product.",
+        "comment_upvotes": 2,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P001_C96",
+        "subproduct_name": "AI Meeting Notes by Notion",
+        "text": "Notion is quite literally becoming the OS for modern work and domination of the full stack of productivity.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C97",
+        "subproduct_name": "AI Meeting Notes by Notion",
+        "text": "Meeting notes that write themselves? Sounds like a productivity boost I could use.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C98",
+        "subproduct_name": "AI Meeting Notes by Notion",
+        "text": "I have most of my knowledge, plans, and life in Notion.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P001_C99",
+        "subproduct_name": "AI Meeting Notes by Notion",
+        "text": "It maintains privacy and reduces distractions. Curious about how it manages overlapping meetings or multiple sessions in a day.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Writesonic AI Writer",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2021-02-20",
+    "url": "https://www.producthunt.com/products/writesonic-ai-writer",
+    "description": "Writesonic is an AI writer trained on top-performing SEO content, ads, and sales copy to enhance marketing productivity.",
+    "comments": [
+      {
+        "doc_id": "P002_C1",
+        "subproduct_name": "AI Article Writer",
+        "text": "Its cool, but really makes the internet a worse place.",
+        "comment_upvotes": 26,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C2",
+        "subproduct_name": "AI Article Writer",
+        "text": "From a technical perspective it's amazing, but it's the beginning of the end of the internet as we know it.",
+        "comment_upvotes": 3,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P002_C3",
+        "subproduct_name": "AI Article Writer",
+        "text": "It uses a combination of GPT-3 and other AI models.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C4",
+        "subproduct_name": "AI Article Writer",
+        "text": "The generated content cannot replace human writers yet, but it can save time and provide a solid baseline for junior writers.",
+        "comment_upvotes": 6,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C5",
+        "subproduct_name": "AI Article Writer",
+        "text": "I am able to write articles within minutes, saving a lot of time.",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C6",
+        "subproduct_name": "AI Article Writer",
+        "text": "We would not recommend using it for research papers and scientific articles as they require original research.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P002_C7",
+        "subproduct_name": "AI Article Writer",
+        "text": "I tested the tool for my industry and it is spot on.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C8",
+        "subproduct_name": "AI Article Writer",
+        "text": "The front page UX made the site look broken due to lack of visible content above the fold.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P002_C9",
+        "subproduct_name": "AI Article Writer",
+        "text": "The unlimited plan restricts heavy usage and requires upgrading to a higher-priced plan.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P002_C10",
+        "subproduct_name": "AI Article Writer",
+        "text": "Very pleased with the results; it speeds up creative writing significantly.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C11",
+        "subproduct_name": "AI Article Writer",
+        "text": "It generates readable content but does not always match the exact intent.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C12",
+        "subproduct_name": "AI Article Writer",
+        "text": "Helps generate outlines which can then be refined using other tools.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C13",
+        "subproduct_name": "AI Article Writer",
+        "text": "You can generate articles for less than a dollar.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C14",
+        "subproduct_name": "AI Article Writer",
+        "text": "With the $35 per month plan I get fewer than 10 usable articles, and only about 30 percent of the content is usable.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C15",
+        "subproduct_name": "AI Article Writer",
+        "text": "The ideas generated were strong, but only part of the article was high quality.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C16",
+        "subproduct_name": "AI Article Writer",
+        "text": "Ethically, there is something questionable about this product despite its technical strengths.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C17",
+        "subproduct_name": "AI Article Writer",
+        "text": "Users retain ownership of the generated article.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C18",
+        "subproduct_name": "AI Article Writer",
+        "text": "It helped me improve my writing and communication skills over time.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C19",
+        "subproduct_name": "AI Article Writer",
+        "text": "The free trial showed strong potential for niche tech topics and could save time for content ideation.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C20",
+        "subproduct_name": "AI Article Writer",
+        "text": "Not actually free as advertised.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C21",
+        "subproduct_name": "AI Article Writer",
+        "text": "Provides multiple content variations to choose from, useful for business professionals and editors.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P002_C22",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "Bought the lifetime deal and use it for everything from website copy to ads and blog articles.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C23",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "Beautiful UI and simple to use.",
+        "comment_upvotes": 6,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C24",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "Generated a complete article in under a minute and performed better than competitors in speed and quality.",
+        "comment_upvotes": 5,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C25",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "I like the pay-as-you-go pricing model.",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C26",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "Content marketing is increasingly important, even for early stage companies.",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C27",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "It simplifies sentence structuring and saves a lot of time.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C28",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "Ad copies were strong enough to use directly or served as a solid foundation for edits.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C29",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "The tool ensures the AI follows user guidelines while keeping the UX simplified.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C30",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "Most AI article writers have outdated databases; having current data is important.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C31",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "This tool significantly reduces effort for high-volume writing workflows.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C32",
+        "subproduct_name": "Google Ads Generator",
+        "text": "Sounds like a great time-saver for creating quality Google Ads.",
+        "comment_upvotes": 11,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P002_C33",
+        "subproduct_name": "Google Ads Generator",
+        "text": "Helps create Google and Facebook ads, cold email sequences, and website copy quickly.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C34",
+        "subproduct_name": "Writesonic",
+        "text": "The competition in this field is fierce.the product in the top few positions.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C35",
+        "subproduct_name": "Writesonic",
+        "text": "It significantly increases content production speed compared to manual writing.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C36",
+        "subproduct_name": "Writesonic",
+        "text": "clean Ui and convenient to use.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P002_C37",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "The system failed to recognize my paid plan status, preventing access to features.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P002_C38",
+        "subproduct_name": "AI Article Writer 2.0",
+        "text": "The email verification process did not work, blocking account setup.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C39",
+        "subproduct_name": "Writesonic",
+        "text": "Support responses relied heavily on automated replies without resolving the issue.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P002_C40",
+        "subproduct_name": "Writesonic",
+        "text": "Pricing transparency could be improved to better match user expectations.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C41",
+        "subproduct_name": "Writesonic",
+        "text": "The platform shows strong potential but still requires human editing for professional publication.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C42",
+        "subproduct_name": "Writesonic",
+        "text": "The integration with SurferSEO is a game changer for content marketers who want to rank higher while saving time on writing.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P002_C43",
+        "subproduct_name": "Writesonic",
+        "text": "One limitation I have noticed is that the AI sometimes repeats phrases or ideas within a single article, requiring manual cleanup.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Copysmith",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2020-10-26",
+    "url": "https://www.producthunt.com/products/copysmith",
+    "description": "Generate high-performing product descriptions, ad variants, taglines, landing pages & blog posts. See how your ads would actually look once deployed. Edit & manage your copy. Supercharge your content marketing with a free trial & 50% off with PRODUCTHUNT50",
+    "comments": [
+      {
+        "doc_id": "P003_C1",
+        "subproduct_name": "Copysmith",
+        "text": "Just used the tool to create a sample Google Ads Copy ( I created one last week with same keywords) and the result is crazyyyy! So Gooood! Really excited about the product! Can do wonders!",
+        "comment_upvotes": 6,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C2",
+        "subproduct_name": "Copysmith",
+        "text": "It has been fun seeding data here for you all",
+        "comment_upvotes": 8,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C3",
+        "subproduct_name": "Copysmith",
+        "text": "Blog post is not enabled yet. ",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C4",
+        "subproduct_name": "Copysmith",
+        "text": "Generated ads from only two keywords and a short description, producing highly relevant results.",
+        "comment_upvotes": 6,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C5",
+        "subproduct_name": "Copysmith",
+        "text": "The snippets it generates are soo good. Super happy to see how far this product goes, I'm definitely interested in using this in the future ",
+        "comment_upvotes": 5,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P003_C6",
+        "subproduct_name": "Copysmith",
+        "text": "Product characteristics and brand keywords are not consistently saved, and output occasionally returns gibberish or no description at all.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C7",
+        "subproduct_name": "Copysmith",
+        "text": "Facebook ad generation performed better than other output types.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C8",
+        "subproduct_name": "Copysmith",
+        "text": "GPT-3 outputs support multiple languages including French, Spanish, and Chinese.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C9",
+        "subproduct_name": "Copysmith",
+        "text": "Despite imperfections, the generated drafts are significantly stronger than a typical first human draft.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P003_C10",
+        "subproduct_name": "Copysmith",
+        "text": "The output sometimes appears to scrape or mimic similarly named companies instead of generating original, relevant content.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C11",
+        "subproduct_name": "Copysmith",
+        "text": "His has the potential of unbundle the entire marketing -and- advertising industry in one shot. Nothing short of spectacular.",
+        "comment_upvotes": 3,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P003_C12",
+        "subproduct_name": "Copysmith",
+        "text": "I would add the hero section to the container also as it's a bit inconsistent and the image at right is blurry",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C13",
+        "subproduct_name": "Copysmith",
+        "text": "Your website is not working?",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C14",
+        "subproduct_name": "Copysmith",
+        "text": "We see Copysmith not as replacing copywriting/content marketing jobs, but offering a different paradigm of copysmithing - you give it raw inputs, it gives you something workable, and you polish it ",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C15",
+        "subproduct_name": "Copysmith",
+        "text": " One of the best practical applications of AI I have seen",
+        "comment_upvotes": 4,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P003_C16",
+        "subproduct_name": "Copysmith",
+        "text": "Looks like this has a lot of impact potential,",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C17",
+        "subproduct_name": "Copysmith",
+        "text": "I'm not a target customer at present, but impressed by the speed and quality of the results on the couple of tests I ran. Will be interested to see meta descriptions and longer form content.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C18",
+        "subproduct_name": "Copysmith",
+        "text": "How does Copysmith prevent duplicates so it doesn't look like plagiarism?",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C19",
+        "subproduct_name": "Copysmith",
+        "text": "This is concerning - is the page not loading for you?",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C20",
+        "subproduct_name": "Copysmith",
+        "text": "I have problems accessing it",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P003_C21",
+        "subproduct_name": "Copysmith",
+        "text": "Having all sorts of problems signing up / in. main message: 'Failed to execute 'transaction' on 'IDBDatabase': The database is closing.' I think I have an account now but can't sign into it",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P003_C22",
+        "subproduct_name": "Copysmith",
+        "text": "Didn't work for me. Just seemed to google a bunch of similarly named companies and write stuff about them. Which is next to useless.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P003_C23",
+        "subproduct_name": "Copysmith",
+        "text": "I am blown away. Results aren't perfect of course",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P003_C24",
+        "subproduct_name": "Copysmith",
+        "text": "Really incredible and useful marketing copy!",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P003_C25",
+        "subproduct_name": "Copysmith",
+        "text": "The website link  site is not available. Second day try!",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C26",
+        "subproduct_name": "Copysmith",
+        "text": "Signup/login failed with database transaction errors, blocking account access.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P003_C27",
+        "subproduct_name": "Copysmith",
+        "text": "Early adopters reported dissatisfaction with pricing structure, limited credit allocation, and exclusion from newly launched automation features.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P003_C28",
+        "subproduct_name": "Copysmith Chrome Extension",
+        "text": "Sign up for a free trial to take our Chrome Extension for a spin.  ",
+        "comment_upvotes": 6,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P003_C29",
+        "subproduct_name": "Copysmith Chrome Extension",
+        "text": "Having it as a browser extension will be extremely helpful while writing content across websites.",
+        "comment_upvotes": 2,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P003_C30",
+        "subproduct_name": "Robot Cupid by Copysmith",
+        "text": "Our team had a ton of fun building this tool and we hope it brings you joy (and hopefully some love as well). Especially in a year where a lot of folks are spending time far away from their loved ones, we hope that Robot Cupid brings a little bit of magic into your day.  ",
+        "comment_upvotes": 5,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P003_C31",
+        "subproduct_name": "Robot Cupid by Copysmith",
+        "text": "I've written at least a 1000 or more poems in my life and published at least a few collections of them - but teaching an AI to write love poems has got to be some of the most fun I've ever had, and I think you'll have just as much using it.  ",
+        "comment_upvotes": 5,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P003_C32",
+        "subproduct_name": "Robot Cupid by Copysmith",
+        "text": "The best thing is - you can customize how the card looks (I'm team blue penguin) and share it on your social media! ",
+        "comment_upvotes": 4,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P003_C33",
+        "subproduct_name": "Robot Cupid by Copysmith",
+        "text": "Robot Cupid perceived as a playful and design-focused creative AI subproduct.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "product_id": "P004",
+    "product_name": "compose.ai",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2022-04-28",
+    "url": "https://www.producthunt.com/products/compose-ai",
+    "description": " Use AI to supercharge your email workflow:  - Turn bulleted lists into tone-aware, well-researched, and readable emails   - Summarize long email chains for easy consumption  ",
+    "comments": [
+      {
+        "doc_id": "P004_C1",
+        "subproduct_name": "Compose AI",
+        "text": "Look forward to checking out the tool. The YouTube video is not playing (says account is terminated). Might want to check that.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C2",
+        "subproduct_name": "Compose AI",
+        "text": "Just installed the chrome extension and works amazingly well in our SaaS application. We were looking for a solution to assist our users with less typing and this solves it nicely. I will be sending out email to all my users to download this chrome extension",
+        "comment_upvotes": 4,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P004_C3",
+        "subproduct_name": "Compose AI",
+        "text": "Any tool that cuts down typing time is a winner in my books. I'm giving the Compose AI extension a test run .",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C4",
+        "subproduct_name": "Compose AI",
+        "text": "Save me tons of time typing.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C5",
+        "subproduct_name": "Compose AI",
+        "text": "The extension works incredibly well! As a public relations professional, I spend a lot of time writing emails. This has freed up my time and is learning my preferred tone/language quickly!.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C6",
+        "subproduct_name": "Compose AI",
+        "text": "Most people underestimate the degree to which writing is a deterrent to effectively communicating or crystalizing ideas, and I think Compose will be a game changer in unleashing this potential.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C7",
+        "subproduct_name": "Compose AI",
+        "text": "Totally agree about the importance of writing and effective communication. Hope we can be a strong force for good on this front.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P004_C8",
+        "subproduct_name": "Compose AI",
+        "text": "It's been a crazy year working on Compose AI. We've iterated a lot and I'm so happy to share our hard work with everyone now..",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P004_C9",
+        "subproduct_name": "Compose AI",
+        "text": "This is like Gmail autocomplete but for all the places you type text in. I was looking for something like this for some time.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C10",
+        "subproduct_name": "Compose AI",
+        "text": "Love using Compose for sales follow up emails!",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P004_C11",
+        "subproduct_name": "compose.ai",
+        "text": "I've signed up for the beta and can't wait to cut my email time down in half!",
+        "comment_upvotes": 7,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C12",
+        "subproduct_name": "compose.ai",
+        "text": "I always spend so much time trying to actually write my emails - this could speed things up a lot! Looking forward to trying this soon!",
+        "comment_upvotes": 8,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C13",
+        "subproduct_name": "compose.ai",
+        "text": "Hopefully there is an option to not use the browser extension, ",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C14",
+        "subproduct_name": "compose.ai",
+        "text": "Not going to sell Gmail data. We care a lot about users' privacy.",
+        "comment_upvotes": 5,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C15",
+        "subproduct_name": "compose.ai",
+        "text": "Do you plan on fine-tuning it with my own emails so it can adjust to my style of writing?",
+        "comment_upvotes": 5,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C16",
+        "subproduct_name": "compose.ai",
+        "text": "I've been waiting for this extension my entire life - definitely going to give it a try",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C17",
+        "subproduct_name": "compose.ai",
+        "text": "I waste so much much time going from that 'bullet point' version of what I want to write in an email to something that sounds like reasonably coherent english!",
+        "comment_upvotes": 3,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P004_C18",
+        "subproduct_name": "compose.ai",
+        "text": "As someone who spends a bunch of time on email, I'm super excited to try this out",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C19",
+        "subproduct_name": "compose.ai",
+        "text": "Nowadays most of the the emails content confidential data and people are more worried about their data usage. ",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C20",
+        "subproduct_name": "compose.ai",
+        "text": "This will change the lives of people like us who are not that good in English.",
+        "comment_upvotes": 2,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P004_C21",
+        "subproduct_name": "compose.ai",
+        "text": "I've wanted to find a way to get a lot of the pleasantries out of the way before taking time and personalizing my emails!",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C22",
+        "subproduct_name": "compose.ai",
+        "text": "I was impressed by your AI grammar checker. ",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C23",
+        "subproduct_name": "compose.ai",
+        "text": "Perhaps you should insert a warning that users should check AI's spelling.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P004_C24",
+        "subproduct_name": "compose.ai",
+        "text": "I've been looking for something to bridge the gap between my head and my emails. I may have new best friend!",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P004_C25",
+        "subproduct_name": "compose.ai",
+        "text": "Can't wait to see what something like this can do for other languages as well!",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Jasper",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2021-03-21",
+    "url": "https://www.producthunt.com/products/conversion-ai-2",
+    "description": "Converision.ai is a tool that uses AI to write proven, high-converting copy for increased conversions and higher ROI. It instantly generates high-quality copy for ads, emails, websites, listings, blogs, and more.",
+    "comments": [
+      {
+        "doc_id": "P005_C1",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Saves me at least 10 hours per week creating social media content.",
+        "comment_upvotes": 5,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C2",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "We quadrupled our weekly content output using Jarvis.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C3",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Saves me 1-3 hours every week and is already paying for itself.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C4",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "My Facebook ads are converting at the highest rate I've seen in months using scripts generated with it.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C5",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Boss Mode enables iterative long-form writing which I haven't found elsewhere.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C6",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Integration with Surfer SEO is valuable for long-form blog writing.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C7",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Templates like 'Explain it to a child' help simplify complex content.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C8",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "It doesn't always get the context right, but multiple outputs help compensate.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C9",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Requires training to use effectively; after 30 minutes productivity increased significantly.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C10",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Not functional for French and wasted more time than it saved.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P005_C11",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Order of magnitude better in English and Spanish than in German.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C12",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Works in Portuguese and English but performance varies by language.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C13",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Could be better if pricing was cheaper.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C14",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Became a premium subscriber after testing due to its usefulness for client work.",
+        "comment_upvotes": 3,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P005_C15",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Now everyone in the team can generate landing page and one-pager content.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C16",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Increased our team's throughput significantly.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C17",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Helps overcome writer's block by generating starter ideas.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C18",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Automation allows generating complete web pages including headlines and bullet points in seconds.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C19",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Helps improve SEO-focused web page content.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C20",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Improved clarity and conciseness in business emails.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C21",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Needs autosave functionality for free users.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C22",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Would prefer a standalone app for iterative drafting.",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C23",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Needs Firefox and Safari browser support beyond Chrome.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C24",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Export to markdown is a strong purchasing reason.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C25",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Export options need improvement for smoother workflow with other writing apps.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C26",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Does not fully replace the need for a human copy editor.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C27",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Learning to combine templates increases idea generation significantly.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C28",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Helps non-native writers sound more fluent in English.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C29",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Enables faster iteration on ad copy, emails, and blog posts.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P005_C30",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Improves sentence structure and content clarity on a daily basis.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C31",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Makes complex topics easier to explain in simplified language.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C32",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Content needs light human editing to match personal voice.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C33",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Premium subscription justified by consistent feature improvements.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C34",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Using it for client campaigns improved turnaround time.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C35",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Performance is stronger for marketing copy than for academic writing.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C36",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Enables faster brainstorming when stuck on a blank page.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P005_C37",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Helps refine tone of voice for varied audiences.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C38",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "It lets you write Google ads, Facebook ads, product descriptions, taglines, and Amazon ads.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C39",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "Conversion.ai helps write copy more quickly and easily.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P005_C40",
+        "subproduct_name": "Jarvis by Conversion.ai",
+        "text": "As a non-native English speaker, it speeds up my content production and helps me sound more natural.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Grammarly",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2014-05-28",
+    "url": "https://www.producthunt.com/products/grammarly",
+    "description": "Grammarly is a technology company that develops a digital writing tool using artificial intelligence and natural language processing. The Grammarly Keyboard goes where you go to make sure your writing always looks great. Whether you're typing up an urgent email, an important LinkedIn message, or an essential Facebook post, Grammarly lets you write from your mobile device with confidence.",
+    "comments": [
+      {
+        "doc_id": "P006_C1",
+        "subproduct_name": "Grammarly for Chrome",
+        "text": "I love Grammarly. The Pro version is a tad pricey, but it works. It's one big drawback is that it doesn't work in Google Docs (at least last time I checked).",
+        "comment_upvotes": 4,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P006_C2",
+        "subproduct_name": "Grammarly for Chrome",
+        "text": "This is a brilliant way to get people into their funnel... provides better conversion rates.",
+        "comment_upvotes": 2,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P006_C3",
+        "subproduct_name": "Grammarly for Chrome",
+        "text": "Is there anyone else having issues paste-ing images into Slack confirmed extension causes it.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P006_C4",
+        "subproduct_name": "Grammarly for Chrome",
+        "text": "Using since 2012 sometimes extension is erratic otherwise brilliant tool.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P006_C5",
+        "subproduct_name": "Grammarly for Chrome",
+        "text": "Money back guarantee exists but one-week free trial would get more feedback.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C6",
+        "subproduct_name": "Grammarly for Chrome",
+        "text": "Monthly subscription seems hefty doesn't seem right.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C7",
+        "subproduct_name": "Grammarly for Chrome",
+        "text": "Concerned about privacy everything transmitted to servers in the US.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C8",
+        "subproduct_name": "Grammarly for Chrome",
+        "text": "Should integrate with Google Sheets premium too pricey.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C9",
+        "subproduct_name": "Grammarly for Chrome",
+        "text": "Simple, fast, effective teaches me sometimes.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P006_C10",
+        "subproduct_name": "Grammarly for Chrome",
+        "text": "Does not provide basis for proposed fixes algorithm runs automatically.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C11",
+        "subproduct_name": "The Grammarly Keyboard for iOS",
+        "text": "I still feel predictions by Swift Keyboard is way smoother than this.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C12",
+        "subproduct_name": "The Grammarly Keyboard for iOS",
+        "text": "I use the premium version of Grammarly almost three years. I am not a native English speaker, so all my texts go through this app. I always missed this possibility on iOS, and well, here it is. Pros: One of the best spellcheckers is now available on iOS. Cons: It seems the app uses a cloud to check spelling. It is quite useless when your device is offline.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C13",
+        "subproduct_name": "The Grammarly Keyboard for iOS",
+        "text": "This looks really interesting! Glad to finally see it on iOS! Will it work with any app? Social networks, productivity apps etc?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C14",
+        "subproduct_name": "The Grammarly Keyboard for iOS",
+        "text": "No swipe type. No emoji search. No thank you.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C15",
+        "subproduct_name": "The Grammarly Keyboard for iOS",
+        "text": "Installed and got this message: 'Allow Full Access for Grammarly Keyboards? Full access allows the developer of this keyboard to transmit anything you type, including sensitive information such as your credit card number or street address.' Why should I not freak out?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C16",
+        "subproduct_name": "The Grammarly Keyboard for iOS",
+        "text": "Please provide clarification in the app welcome screen for granting full access. The iOS warning says full access allows the developer to transmit anything you type, including sensitive information.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C17",
+        "subproduct_name": "The Grammarly Keyboard for iOS",
+        "text": "I'm a Premium Grammarly user and I would like checks while communicating with customers. However, I am worried about privacy and security since the iOS warning mentions PII transmission.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C18",
+        "subproduct_name": "The Grammarly Keyboard for iOS",
+        "text": "Access to emojis is difficult. Not as good at auto-editing as iOS when I fat finger a sentence. Undoing an auto-correct is hard.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C19",
+        "subproduct_name": "The Grammarly Keyboard for iOS",
+        "text": "After installing, I really miss the force touch on the keyboard to move into the text. Is there any way to add this feature from the default keyboard?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C20",
+        "subproduct_name": "The Grammarly Keyboard for iOS",
+        "text": "Not so far but one offline access issue.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P006_C21",
+        "subproduct_name": "Grammarly",
+        "text": "I used to have an annual subscription during my time at uni. Helped me got good grades for my dissertation. One of the reasons I stopped was the experience \u2014 I had to open grammarly.com, paste text, correct it, and paste it back. Chrome plugin would have been a great time saver.",
+        "comment_upvotes": 9,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P006_C22",
+        "subproduct_name": "Grammarly",
+        "text": "When you use Grammarly, they put some kind of advert on YouTube videos that interrupts playback. This is not a YouTube ad but directly from them. Pros: Good product. Cons: Very bad adverts.",
+        "comment_upvotes": 7,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C23",
+        "subproduct_name": "Grammarly",
+        "text": "The homepage appears to allow users to try it out, but as soon as a mistake is found, it pushes users into trial signup. It should allow a free trial before requiring signup.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C24",
+        "subproduct_name": "Grammarly",
+        "text": "I used it on a 10-page engineering paper. On a DOD-level internet connection, it took about 30 minutes and then quit. It felt too slow compared to using a human proofreader.",
+        "comment_upvotes": 2,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P006_C25",
+        "subproduct_name": "Grammarly",
+        "text": "The browser extension is a must-have. I regularly draft emails in it to catch mistakes and improve grammar on the fly. However, it is not as convenient without the extension.",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C26",
+        "subproduct_name": "Grammarly",
+        "text": "This product actually works pretty terribly. I demanded a refund.",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C27",
+        "subproduct_name": "Grammarly",
+        "text": "I use Google keyboard on iOS for better prediction and swipe typing. It would be perfect to merge Grammarly features into existing keyboards.",
+        "comment_upvotes": 5,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P006_C28",
+        "subproduct_name": "Grammarly",
+        "text": "As a German user, the English QWERTY layout forces me to switch keyboards to type Umlauts. The keyboard app feels useless for non-English native users.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P006_C29",
+        "subproduct_name": "Grammarly",
+        "text": "I typed 'the white house' and Grammarly did not format it as a proper noun whereas Apple's keyboard did.",
+        "comment_upvotes": 5,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C30",
+        "subproduct_name": "Grammarly",
+        "text": "Doesn't work on Medium and cuts off emojis on Twitter.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C31",
+        "subproduct_name": "Grammarly",
+        "text": "Frequently identifies non-errors as errors and does not have an 'ignore all' option.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C32",
+        "subproduct_name": "Grammarly",
+        "text": "The indicator at the bottom right corner sometimes gets in the way when resizing a text field.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C33",
+        "subproduct_name": "Grammarly for Desktop",
+        "text": "Grammarly is the bomb! Only thing that dinged the experience for me was lack of integrations in desktop apps.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P006_C34",
+        "subproduct_name": "Grammarly for Desktop",
+        "text": "Just curious why Grammarly extensions don't check Product Hunt comments.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C35",
+        "subproduct_name": "Grammarly for Desktop",
+        "text": "This tool literally saves me tens of thousands of dollars a year because it cuts out a copyeditor on many projects.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C36",
+        "subproduct_name": "Grammarly for Desktop",
+        "text": "Does it work on VS Code?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C37",
+        "subproduct_name": "Grammarly for Desktop",
+        "text": "I love Grammarly but I wish it would integrate with Notion. I do most of my work there.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P006_C38",
+        "subproduct_name": "Grammarly for Desktop",
+        "text": "I am thrilled to finally have access across all apps on my machine. The editor was always annoying to use when handling many documents.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P006_C39",
+        "subproduct_name": "GrammarlyGO",
+        "text": "I work with people in a developing country in tourism who have very little formal education but must learn English to sell services online. Technology like this helps translate and communicate, leveling the field and allowing them to earn income.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C40",
+        "subproduct_name": "GrammarlyGO",
+        "text": "Does your policy allow integration of your SDK into browser extensions?",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C41",
+        "subproduct_name": "GrammarlyGO",
+        "text": "Especially love the reply-to-mails feature for content writers and inbox managers.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P006_C42",
+        "subproduct_name": "GrammarlyGO",
+        "text": "Grammarly can be trusted and does not rent or sell user data.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C43",
+        "subproduct_name": "GrammarlyGO",
+        "text": "How good is it at helping you move from passive sentence structure to active? I struggle with restructuring sentences and similar tools haven't worked well.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P006_C44",
+        "subproduct_name": "GrammarlyGO",
+        "text": "I've used Grammarly for years and I'm excited about GrammarlyGO drafting replies using previous correspondences. Will this be available to paid subscribers?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C45",
+        "subproduct_name": "Grammarly Dark",
+        "text": "Finally a dark version for developers!!",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C46",
+        "subproduct_name": "Grammarly Dark",
+        "text": "Great from being a programmer.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P006_C47",
+        "subproduct_name": "Grammarly Keyboard for Android",
+        "text": "Better spelling and grammar check compared to the native Android keyboard.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C48",
+        "subproduct_name": "Grammarly Keyboard for Android",
+        "text": "Settings are limited, does not support swiping to type, and no Canadian English support.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P006_C49",
+        "subproduct_name": "Grammarly Keyboard for Android",
+        "text": "No swipe typing. Seems slow contextually, doesn't immediately correct 'to' from 'yo'.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P006_C50",
+        "subproduct_name": "Grammarly Keyboard for Android",
+        "text": "Not enough to pry me away from GBoard yet too many missing features.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P006_C51",
+        "subproduct_name": "Grammarly Keyboard for Android",
+        "text": "Takes time to get used to corrections, but it is more accurate than the built-in checker.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P006_C52",
+        "subproduct_name": "Grammarly Keyboard for Android",
+        "text": "Loved the algorithm and the way corrections are done. However, no customization options.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "product_id": "P007",
+    "product_name": "Copy.ai",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2021-02-03",
+    "url": "https://www.producthunt.com/products/copy-ai",
+    "description": "Over 1 million people use our ai copywriting tools to help them write social media posts, website content, and blog posts in seconds.",
+    "comments": [
+      {
+        "doc_id": "P007_C1",
+        "subproduct_name": "CopyAI",
+        "text": "It still blows my mind how good Copy.ai is. An actual copywriter couldn't come up with some of these suggestions.",
+        "comment_upvotes": 6,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C2",
+        "subproduct_name": "CopyAI",
+        "text": "It's super intuitive to use, and provides pretty good texts. I've been using it for a while now, it never let me down.",
+        "comment_upvotes": 5,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C3",
+        "subproduct_name": "CopyAI",
+        "text": "Very good tool to produce small pieces of content (description, headlines, etc.).",
+        "comment_upvotes": 3,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C4",
+        "subproduct_name": "CopyAI",
+        "text": "I see this as a tool not to replace copywriters, but to help copywriting through added creativity and reduced thinking time.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C5",
+        "subproduct_name": "CopyAI",
+        "text": "This is a great tool to battle my writer's block which I sometimes get even for minor copy.",
+        "comment_upvotes": 2,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C6",
+        "subproduct_name": "CopyAI",
+        "text": "Copy.ai has saved my team hundreds of hours.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C7",
+        "subproduct_name": "CopyAI",
+        "text": "AI still needs a bit of improvement, as it sometimes suggests the wrong word in context, but overall the tool is great.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C8",
+        "subproduct_name": "CopyAI",
+        "text": "I love the variety of outputs that are given. The results are a great starting point for marketing and technical copy.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C9",
+        "subproduct_name": "CopyAI",
+        "text": "I don't always use the copy word for word, but it opens my mind to ideas I wouldn't have considered.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C10",
+        "subproduct_name": "CopyAI",
+        "text": "This product has definitely helped us communicate our value proposition. Very simple and easy to use.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C11",
+        "subproduct_name": "CopyAI",
+        "text": "Is it a single click and publish answer? No \u2014 but it's a great simple solution to generate ideas you can adopt into your copy.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C12",
+        "subproduct_name": "CopyAI",
+        "text": "It works with other languages? Like French or Spanish?",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C13",
+        "subproduct_name": "CopyAI",
+        "text": "Anyone know who or what is making the GPT-3 API available?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C14",
+        "subproduct_name": "CopyAI",
+        "text": "Just wondering how GPT-3 API is used? If not a secret, do you use few-shot learning?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C15",
+        "subproduct_name": "CopyAI",
+        "text": "I purchased a subscription after about 15 minutes of testing it out and continue to find more uses in my client services.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C16",
+        "subproduct_name": "CopyAI",
+        "text": "I wonder how well GPT-3 handles climate-related keywords, but I've heard glowing reviews and see no downside to trying.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C17",
+        "subproduct_name": "CopyAI",
+        "text": "Now my service description will be much better.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C18",
+        "subproduct_name": "CopyAI",
+        "text": "It seems great for idea hunting, like a team to brainstorm with.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C19",
+        "subproduct_name": "CopyAI",
+        "text": "I recommend CopyAI for writing email copy, sales page copy and ad copy. You get fast, relevant copy written to engage your audience.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C20",
+        "subproduct_name": "CopyAI",
+        "text": "Gave it a test drive and it's definitely in the tech stack for the next project.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C21",
+        "subproduct_name": "CopyAI",
+        "text": "So many suggestions, makes my work a lot less time consuming.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C22",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Does the real-time component enable the tool to correctly answer knowledge questions about recent topics like who won the World Cup 2022?",
+        "comment_upvotes": 15,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C23",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "The citations say they were pulled on the day of the request but many links return 'Page not Found.'",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C24",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Do you use ChatGPT in any way and do you offer any startup deals?",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C25",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Which languages do you support?",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C26",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "I am encountering an issue on mobile where replying replaces the initial prompt and does not trigger a new generation (Mobile Chrome, Android).",
+        "comment_upvotes": 3,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P007_C27",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "I look forward to using it with the real-time feature. ChatGPT is great but limited due to stale training data.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C28",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Chat by Copy.ai will significantly help with research, repurposing and brainstorming.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C29",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Is Chat included in the base subscription tier?",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C30",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "I especially like the keyword generator and email tools.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C31",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Here's hoping we can keep open and free access for researchers as long as possible.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C32",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "It helps a lot with my blank page syndrome. Productivity goes way up.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C33",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "What does this bring above regular ChatGPT?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C34",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Chat by Copy.ai can access real-time data, scrape websites, summarize YouTube videos, create content with citations, and personalize LinkedIn outreach.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C35",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Is this powered by any of OpenAI's natural language models?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C36",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "The best part is that Chat shows where it pulls information from with citations.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C37",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Which model is used behind the scenes?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C38",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Is this tool unlimited without credits? Is it free?",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P007_C39",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "When generating long prompts I receive an error message. Is there a limit to the prompt size?",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C40",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Pathetically weak compared to Jasper.ai or ChatGPT with the correct prompt.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C41",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Not as chatty as OpenAI but more useful.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C42",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "It does have its limitations but it's good for a baseline.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C43",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "It helped me rewrite clunky sentences in grad school.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C44",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "As a non-native English speaker I no longer worry about grammar mistakes or unclear sentences.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C45",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "I use it regularly to create product descriptions and Google Ads.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C46",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "It saved me money by reducing the need for outsourced content creation.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C47",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "The YouTube summarization feature is particularly useful.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C48",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "It streamlines Customer Operations documentation.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C49",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "ChatGPT has stale training data; I am interested in how real-time data changes performance.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C50",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Compared to Smart Copy, Simplified, Rytr, and Anyword, I prefer Copy.ai.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C51",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "As a Ukrainian speaker, it helps me write fluently in English.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C52",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "I have used it for entire blog posts, brainstorming, and SEO. The output is excellent and I appreciate the citations.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C53",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "It offers great value for money and is flexible for different scenarios.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P007_C54",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "The real-time search feature is what I'm most interested in.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C55",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "It has similar content policy limitations as ChatGPT around sexual education topics.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C56",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "I used Copy.ai at a startup and now at a Fortune 100 company.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C57",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "I use the website to scrape data and found it effective.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C58",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Prompt templates help generate precise output in specific tones.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C59",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "I use it as a complementary tool, not a replacement.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C60",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Which GPT version does it use on the backend?",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C61",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "I tested a website summary and Copy.ai gave a correct answer while ChatGPT was incorrect.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C62",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "Used it to get past blank page syndrome when writing emails.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C63",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "It reduces the need to hire an expensive copy editor.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P007_C64",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "The ability to list unique perspectives on a topic is interesting.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C65",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "A.I combined with human copywriters is the future of content.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C66",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "I used Chat as a brainstorming tool for newsletter articles with strong results.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P007_C67",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "It charged full price without discount and crashes midway through responses.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P007_C68",
+        "subproduct_name": "Chat by Copy.ai",
+        "text": "It helps polish manuscripts and supports professional writing.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "product_id": "P008",
+    "product_name": "Peppertype.ai",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2021-06-17",
+    "url": "https://www.producthunt.com/products/peppertype-ai",
+    "description": "Your virtual content assistant that helps you generate quality content within seconds.",
+    "comments": [
+      {
+        "doc_id": "P008_C1",
+        "subproduct_name": "Peppertype.ai",
+        "text": "My most favourite feature is Social Media Post Captions. It produces better results than other AI tools.",
+        "comment_upvotes": 4,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C2",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Loved using Peppertype for creating ad copies across Facebook and Google Search. It helps streamline paid and organic marketing strategy.",
+        "comment_upvotes": 6,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C3",
+        "subproduct_name": "Peppertype.ai",
+        "text": "It saves ideation time massively and helps create Twitter content and blog ideas faster.",
+        "comment_upvotes": 8,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C4",
+        "subproduct_name": "Peppertype.ai",
+        "text": "We use it almost across every department internally for content creation.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C5",
+        "subproduct_name": "Peppertype.ai",
+        "text": "The GPT-3 space has too many similar tools. Hoping Peppertype builds real differentiating features.",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C6",
+        "subproduct_name": "Peppertype.ai",
+        "text": "It makes life easier during A/B testing and copy experiments. Helpful for website and landing page iterations.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C7",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Looking forward to inline long-form content generation, Quora answers, and cold outreach content tools.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C8",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Used for product descriptions and Facebook ad copy with strong results.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C9",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Useful for defining value propositions, product benefits, feature bullets, and blog ideas.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C10",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Generated content tested as 100% unique in plagiarism checker.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C11",
+        "subproduct_name": "Peppertype.ai",
+        "text": "You don't have to hire expensive copywriters. This tool can handle copywriting with experimentation.",
+        "comment_upvotes": 2,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P008_C12",
+        "subproduct_name": "Peppertype.ai",
+        "text": "How do you differentiate against Headlime?",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C13",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Used for website copy and sub-headlines when running out of ideas.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C14",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Helps come up with new content everyday and serves as a consistent ideation assistant.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C15",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Useful for blog ideas and digital ad copy generation.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C16",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Generates social media posts, blog posts, and website copy across different use cases.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C17",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Provides effective Google Ads headlines and descriptions for campaigns.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C18",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Useful for website headlines and landing page copy optimization.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C19",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Used for LinkedIn content and blog ideas with significant time savings.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C20",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Helps generate copy for UX design use cases.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C21",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Claims to work in major global languages including Mandarin Chinese, Spanish, Russian, and French.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C22",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Standout quality of generated copies and easy-to-understand UI.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C23",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Request for Email Subject Line suggestion feature.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C24",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Perceived as similar to many other GPT-3 tools generating low-quality copy.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C25",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Question raised about how the product differentiates itself from other GPT-3 tools.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C26",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Users asking whether GPT-3 is the underlying model due to speed and quality.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C27",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Confirmed GPT-3 as underlying AI with additional NLP layer built on top.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C28",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Generated copy perceived as human-like rather than machine-generated.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C29",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Claim that AI-generated copy passes plagiarism checks and is unique.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C30",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Suggested integration for community platforms such as Discord, Slack, Telegram, and Facebook Groups.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P008_C31",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Helps generate high-converting ad copy variations quickly for marketing experiments.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C32",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Useful for brainstorming multiple headline options from minimal keyword input.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C33",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Improves productivity for agencies managing multiple client campaigns simultaneously.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C34",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Generated outputs require minor editing but significantly reduce drafting time.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C35",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Helpful during creative blocks by suggesting alternative angles and messaging ideas.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C36",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Consistent performance across social media captions, taglines, and product descriptions.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C37",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Long-term usage shows steady improvement in output quality and feature updates.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C38",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Provides structured templates that simplify content generation for beginners.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C39",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Sometimes produces repetitive phrasing when generating multiple variations.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C40",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Lacks deeper customization controls compared to advanced AI writing platforms.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P008_C41",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Effective for startup founders managing content without dedicated marketing teams.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C42",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Improves landing page copy experimentation by offering multiple tone variations.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C43",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Quick content generation reduces turnaround time for urgent campaign launches.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C44",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Some niche industries may require manual refinement for accurate terminology.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C45",
+        "subproduct_name": "Peppertype.ai",
+        "text": "User interface is clean but could benefit from advanced organization tools for large projects.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P008_C46",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Supports multilingual content generation for global marketing teams.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C47",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Valuable for drafting quick concept copies before finalizing with human editing.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C48",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Output tone is generally engaging and conversational.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C49",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Performance is strong for short-form marketing content but less optimized for long-form articles.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P008_C50",
+        "subproduct_name": "Peppertype.ai",
+        "text": "Competitive within the GPT-based writing tool market but differentiation remains a strategic challenge.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "product_id": "P009",
+    "product_name": "Text Blaze",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2021-03-15",
+    "url": "https://www.producthunt.com/products/text-blaze",
+    "description": "Easy-to-use templates with endless customizability and powerful automation. All with full control at your fingertips.",
+    "comments": [
+      {
+        "doc_id": "P009_C1",
+        "subproduct_name": "AI Blaze",
+        "text": "Helps draft and edit email replies faster, especially when handling large inbox volumes.",
+        "comment_upvotes": 3,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P009_C2",
+        "subproduct_name": "AI Blaze",
+        "text": "Allows users to create custom AI prompt templates for different writing contexts.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C3",
+        "subproduct_name": "AI Blaze",
+        "text": "Operates as a lightweight Chrome extension that works contextually on web pages without requiring a separate app installation.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C4",
+        "subproduct_name": "AI Blaze",
+        "text": "Users asked whether it can read and reference multiple articles simultaneously for context-aware generation.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C5",
+        "subproduct_name": "AI Blaze",
+        "text": "Can improve or rewrite text on any webpage, raising questions about types of supported improvements.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C6",
+        "subproduct_name": "AI Blaze",
+        "text": "Questions raised about handling domain-specific jargon in sectors like legal or medical.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C7",
+        "subproduct_name": "AI Blaze",
+        "text": "Includes translation capability that enables writing across different languages without switching tools.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C8",
+        "subproduct_name": "AI Blaze",
+        "text": "Summarizes large amounts of information and provides relevant resources for learning and research workflows.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C9",
+        "subproduct_name": "AI Blaze",
+        "text": "Users questioned whether it adapts to different writing styles or follows a one-size-fits-all generation approach.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C10",
+        "subproduct_name": "AI Blaze",
+        "text": "Perceived as potentially just another AI tool in a crowded market without clear differentiation.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C11",
+        "subproduct_name": "AI Blaze",
+        "text": "Concern about whether creating AI templates adds complexity for non-technical users.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C12",
+        "subproduct_name": "AI Blaze",
+        "text": "Suggested adding voice command features for more intuitive interaction.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C13",
+        "subproduct_name": "Text Blaze",
+        "text": "Creating new shortcuts is simple and easy to configure.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P009_C14",
+        "subproduct_name": "Text Blaze",
+        "text": "Users want shortcut support in MS Teams and Outlook beyond current platform availability.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C15",
+        "subproduct_name": "Text Blaze",
+        "text": "Frequently used links and addresses can be inserted instantly using snippets, saving time.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C16",
+        "subproduct_name": "Text Blaze",
+        "text": "Highly useful for repetitive email responses such as scheduling and introductions.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P009_C17",
+        "subproduct_name": "Text Blaze",
+        "text": "Requests to expand beyond Chrome for usage in tools like Superhuman, WhatsApp, and iMessage.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C18",
+        "subproduct_name": "Text Blaze",
+        "text": "Users reported difficulty finding a download button on the website.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P009_C19",
+        "subproduct_name": "Text Blaze",
+        "text": "Onboarding experience stood out as a notable part of initial user interaction.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C20",
+        "subproduct_name": "Data Blaze",
+        "text": "Asked about main differences compared to Airtable, particularly regarding UI similarities and differentiation.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C21",
+        "subproduct_name": "Data Blaze",
+        "text": "Supports rich data types and multiple views, enabling structured data organization and sharing.",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C22",
+        "subproduct_name": "Text Blaze for Windows",
+        "text": "Text Blaze is one of my favorite efficiency tools and I'm thrilled to see its application extend beyond Chrome.",
+        "comment_upvotes": 3,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P009_C23",
+        "subproduct_name": "Text Blaze for Windows",
+        "text": "Doesn't work with virtual keyboards, though works well on Chrome.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C24",
+        "subproduct_name": "Free invoice maker",
+        "text": "I'm excited to introduce our new free invoice tool that can help you create professional-looking invoices without the headache of manual typing and calculations. You can customize the invoice fully, and support is available if needed.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C25",
+        "subproduct_name": "Free invoice maker",
+        "text": "Congrats on the launch! This is a great tool for businesses to quickly create and send invoices without having to worry about the details. It will make life easier for many professionals!",
+        "comment_upvotes": 2,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P009_C26",
+        "subproduct_name": "Free invoice maker",
+        "text": "Power in simplicity. This will speed up invoice creation for many. Can it handle multiple currencies and tax calculations?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C27",
+        "subproduct_name": "AI Blaze",
+        "text": "Repurposing copy into unique native posts saves hours each week and reduces manual rewriting effort.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C28",
+        "subproduct_name": "AI Blaze",
+        "text": "Users see strong potential for adoption in academic and research workflows.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C29",
+        "subproduct_name": "AI Blaze",
+        "text": "Direct comparison requested with Grammarly to understand differentiation in writing assistance.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C30",
+        "subproduct_name": "AI Blaze",
+        "text": "Request for multilingual support, specifically asking for Arabic language compatibility.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C31",
+        "subproduct_name": "AI Blaze",
+        "text": "Users suggested adding a free-forever tier with limited character usage.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P009_C32",
+        "subproduct_name": "Text Blaze",
+        "text": "Shortcut automation significantly reduces time spent replying to repetitive emails after inbox backlogs.",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C33",
+        "subproduct_name": "AI Blaze",
+        "text": "Custom AI prompt templates perceived as transformative for cross-platform writing workflows.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C34",
+        "subproduct_name": "AI Blaze",
+        "text": "Brand name similarity with blaze.ai may cause market confusion and discoverability issues.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P009_C35",
+        "subproduct_name": "AI Blaze",
+        "text": "Users questioned ability to read and synthesize multiple reference articles for contextual generation.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C36",
+        "subproduct_name": "AI Blaze",
+        "text": "Clarification requested on whether it operates strictly as a Chrome extension or across all webpages.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C37",
+        "subproduct_name": "AI Blaze",
+        "text": "Inquiry about robustness in handling specialized jargon in legal and medical domains.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C38",
+        "subproduct_name": "AI Blaze",
+        "text": "Users interested in understanding types of text improvement supported (clarity, tone, conciseness, etc.).",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C39",
+        "subproduct_name": "AI Blaze",
+        "text": "Skepticism raised about differentiation in an increasingly crowded AI writing tool market.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C40",
+        "subproduct_name": "AI Blaze",
+        "text": "Concerns that template customization may be too complex for non-technical users.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C41",
+        "subproduct_name": "AI Blaze",
+        "text": "Interest in personalization features that adapt to individual writing styles.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C42",
+        "subproduct_name": "AI Blaze",
+        "text": "Suggestion to include voice command functionality for more intuitive interaction.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P009_C43",
+        "subproduct_name": "Data Blaze",
+        "text": "Anticipation that Data Blaze could replicate productivity gains achieved by Text Blaze in spreadsheet workflows.",
+        "comment_upvotes": 5,
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "product_id": "P010",
+    "product_name": "AISEO",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2022-08-21",
+    "url": "https://www.producthunt.com/products/aiseo",
+    "description": "Contemporary AI service for self-writing blog posts, essays and product descriptions. Focus on what's important.",
+    "comments": [
+      {
+        "doc_id": "P010_C1",
+        "subproduct_name": "Intelligent paraphraser",
+        "text": "Mobile experience in both portrait and landscape mode was poor, preventing further product testing.",
+        "comment_upvotes": 2,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P010_C2",
+        "subproduct_name": "Intelligent paraphraser",
+        "text": "The generated output is not final-draft quality, but minor corrections make it usable.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C3",
+        "subproduct_name": "Intelligent paraphraser",
+        "text": "I can't test the quality in my language; it says it's a pro feature.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C4",
+        "subproduct_name": "Intelligent paraphraser",
+        "text": "Repeatedly running the same input through the tool progressively degrades the output quality.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C5",
+        "subproduct_name": "Intelligent paraphraser",
+        "text": "There is a consistent expectation gap between marketing claims and actual performance.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C6",
+        "subproduct_name": "Intelligent paraphraser",
+        "text": "Testing all six paraphrasing modes requires using an iPad or laptop, indicating limited mobile feature support.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P010_C7",
+        "subproduct_name": "AISEO ART",
+        "text": "The AI introduces unrelated external references, suggesting context drift beyond the provided source text.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C8",
+        "subproduct_name": "AISEO ART",
+        "text": "There are many tools to generate art, but this one has got some unique features in its prompt such as the erase & replace.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C9",
+        "subproduct_name": "AISEO ART",
+        "text": "AI art is truly incredible and this product looks like a banger. Did you know that AI-generated portraits can be made to move and speak using studio.d-id.com? All you have to do is upload an image, type or record a script and the software turns it into a video.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P010_C10",
+        "subproduct_name": "AISEO ART",
+        "text": "With AISEO ART, I'm able to turn my imagination into amazing art quickly and easily. It's really satisfying to see the results of my ideas come to life so quickly.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P010_C11",
+        "subproduct_name": "AISEO ART",
+        "text": "Some features are really unique like the image variation tool.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C13A",
+        "subproduct_name": "AISEO ART",
+        "text": "Which AI models are you using to generate the images? Any distortion with the body parts, especially hands, fingers, and faces in the output?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C14A",
+        "subproduct_name": "Free AI Paraphraser",
+        "text": "Is there a similar tool for other languages, like Arabic?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C15A",
+        "subproduct_name": "Free AI Paraphraser",
+        "text": "A free forever plan with limited characters would be great",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C16A",
+        "subproduct_name": "Free AI Paraphraser",
+        "text": "perfect tool for AI detection and Humanization of the AI content",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P010_C13B",
+        "subproduct_name": "Free AI Paraphraser",
+        "text": "This would honestly help me as a college student!",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C13C",
+        "subproduct_name": "Paragraph rewriter",
+        "text": "Repurposing copy for unique, native posts is a huge time suck in my day. You very well have saved me hours per week.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C14B",
+        "subproduct_name": "Paragraph rewriter",
+        "text": "This is undoubtedly going to rock the academic and research industry! Have you tried focusing there? Any interesting story to share?",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C15B",
+        "subproduct_name": "AISEO",
+        "text": "This is very helpful! It is like Jarvis but way more affordable. How do you guys afford the pricing with GPT-3?",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P010_C16B",
+        "subproduct_name": "AISEO",
+        "text": "I went through the features of AISEO, and it's still a rough product. They've come far since I checked them the last time, but the quality of the content generated is really varying.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C17",
+        "subproduct_name": "AISEO",
+        "text": "The generated content is close to natural writing and requires minor editing to reach publishable quality.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C18",
+        "subproduct_name": "AISEO",
+        "text": "The platform allows straightforward publishing workflow integration from content creation to blog posting.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C19",
+        "subproduct_name": "AISEO",
+        "text": "Free paraphrasing is credit-limited, and credits are perceived as expensive, creating pricing friction.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P010_C20",
+        "subproduct_name": "AISEO",
+        "text": "The paraphraser occasionally reduces sentence clarity but remains usable overall.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C21",
+        "subproduct_name": "Article Rewriter",
+        "text": "Very useful for bloggers ant content writers!",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P010_C22",
+        "subproduct_name": "AISEO",
+        "text": "Good for AI detection and humanizing AI content, but performance declines slightly as word count increases.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P010_C23",
+        "subproduct_name": "AISEO",
+        "text": "Effectively transforms AI-generated text into natural, human-sounding language while preserving original meaning.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C24",
+        "subproduct_name": "AISEO",
+        "text": "AI Blog Generator produces clear, engaging, and well-structured articles.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C25",
+        "subproduct_name": "AISEO",
+        "text": "Humanized output often avoids AI detection and improves coherence.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C26",
+        "subproduct_name": "AISEO",
+        "text": "Platform is fast, intuitive, and saves significant time in writing tasks.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P010_C27",
+        "subproduct_name": "AISEO",
+        "text": "Long-term user transitioned from content generation to primarily using it as an AI humanizer.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C28",
+        "subproduct_name": "AISEO",
+        "text": "Quickly converts AI-generated content into submission-ready formats for assignments and projects.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C29",
+        "subproduct_name": "AISEO",
+        "text": "Clean and intuitive interface with minimal learning curve.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P010_C30",
+        "subproduct_name": "AISEO",
+        "text": "Helpful for academic writing and essay preparation.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P010_C31",
+        "subproduct_name": "AISEO",
+        "text": "Generates SEO-friendly blog posts, product descriptions, and keyword-aligned articles.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C32",
+        "subproduct_name": "AISEO",
+        "text": "AI produces grammatically accurate content with logical flow, though complex topics require manual refinement.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P010_C33",
+        "subproduct_name": "AISEO",
+        "text": "Occasionally lacks depth and nuance for highly technical or creative writing.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "product_id": "P011",
+    "product_name": "Hemingway Editor",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2014-02-12",
+    "url": "https://www.producthunt.com/products/hemingway-app",
+    "description": "Hemingway Editor is the fastest way to improve your writing. It both fixes grammar issues and tells you where you're being too wordy. With Editor Plus, we've added generative AI to suggest rewrites that improve your writing.",
+    "comments": [
+      {
+        "doc_id": "P011_C1",
+        "subproduct_name": "Hemingway",
+        "text": "Would be cool as a WordPress plugin.",
+        "comment_upvotes": 6,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C2",
+        "subproduct_name": "Hemingway",
+        "text": "Wish it had a GDocs integration as well.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C3",
+        "subproduct_name": "Hemingway",
+        "text": "I use this tool daily. The issue I have is that it's a web app and I've lost writing from the app before. Especially when offline on flights.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P011_C4",
+        "subproduct_name": "Hemingway",
+        "text": "Definitely want this as a plugin to environments where I normally write. If this automatically backs up in a reliable way, I'd switch out of Word and gDocs for my morning writing.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C5",
+        "subproduct_name": "Hemingway",
+        "text": "Would love to see a Word integration for the REALLY long stuff.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P011_C6",
+        "subproduct_name": "Hemingway",
+        "text": "Would love a Chrome extension to use inside Gmail, or any site for that matter.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P011_C7",
+        "subproduct_name": "Hemingway",
+        "text": "How does this compare to Grammarly?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C8",
+        "subproduct_name": "Hemingway",
+        "text": "Which GPT-version does it use on the backend?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C9",
+        "subproduct_name": "Hemingway",
+        "text": "It charged me the full price; I did not get the discount. And now it keeps crashing midway through a response.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P011_C10",
+        "subproduct_name": "Hemingway",
+        "text": "How do I register on your website? It won't allow me to get started.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C11",
+        "subproduct_name": "Hemingway",
+        "text": "Compared to Smart Copy, Simplified, Rytr, Anyword, I prefer Copy.ai.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C12",
+        "subproduct_name": "Hemingway",
+        "text": "I've used it for entire blog posts, brainstorming, SEO, and more. The output is excellent and I love the citations (sources) given.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P011_C13",
+        "subproduct_name": "Hemingway",
+        "text": "The ability to list unique perspectives on a given topic is a super interesting addition.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C14",
+        "subproduct_name": "Hemingway Desktop App",
+        "text": "I use the web version all the time. Will likely buy the desktop version!",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C15",
+        "subproduct_name": "Hemingway Desktop App",
+        "text": "I've been passing all our copy through it and love it. My editor thinks I got smarter (and learned grammar).",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P011_C16",
+        "subproduct_name": "Hemingway Desktop App",
+        "text": "I'd love a Hemingway Chrome extension to give me the ability to quickly edit emails, essays in Draft, and anywhere else on the web.",
+        "comment_upvotes": 4,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P011_C17",
+        "subproduct_name": "Hemingway Desktop App",
+        "text": "It's hard to explain statistical forecasting and predictive analytics on a 5th grade level without sounding oversimplified.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C18",
+        "subproduct_name": "Hemingway Desktop App",
+        "text": "I use Hemingway whenever I write something these days. It's very useful.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C19",
+        "subproduct_name": "Hemingway Desktop App",
+        "text": "Little things like using active instead of passive voice and removing redundant words make emails more concise.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C20",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "New version is out for Mac/Win with features like formatting, import/export and auto update. Happy 2.0 upgrade is free to existing users.",
+        "comment_upvotes": 8,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P011_C21",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "I'm curious why you chose to land on the Mac purchase page instead of the more descriptive desktop page that includes the PC option.",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C22",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "I run important documents and blog posts through Hemingway for an additional opinion, especially when technical language is unavoidable.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C23",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "What is new in Version 2?",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C24",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "Being able to easily export to markdown is a strong reason to buy this.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C25",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "I wished its export options made it easier to go back and forth between Ulysses and Hemingway.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C26",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "Not always accurate and won't replace a true copy editor.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C27",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "I wish it had a free trial or discount.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C28",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "The app has a lot of problems, but still helps me a lot.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P011_C29",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "My suggestion would be to give hints to help keep users out of the red highlights.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C30",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "Does it correct spelling errors?",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C31",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "Give me a reason to use it instead of Scrivener or even Word.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C32",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "I would suggest adding gamification features.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C33",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "It doesn't work at all and is not user friendly.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C34",
+        "subproduct_name": "Hemingway Editor 2.0",
+        "text": "Didn't live up to expectations.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C35",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "Feature request: as I type in markdown it converts to formatted text automatically.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C36",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "What are the keyboard shortcuts? Do you have a list somewhere?",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C37",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "Keeping the beta editor and Medium editor in sync was a pain.",
+        "comment_upvotes": 4,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C38",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "Are other languages supported, like French?",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C39",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "How does it compare with Grammarly?",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C40",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "It would be awesome if this could post to LinkedIn as well.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P011_C41",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "It could really use a better design.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C42",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "It doesn't handle copy and paste very well sometimes.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P011_C43",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "Is it useful for email, website and social media writing, or mostly for bloggers?",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P011_C44",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "Is Hemingway useless for languages other than English?",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P011_C45",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "Would love to see a paid web version of 3.0 for full-time web users.",
+        "comment_upvotes": 0,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P011_C46",
+        "subproduct_name": "Hemingway Editor 3.0",
+        "text": "Need an autosave feature for free users.",
+        "comment_upvotes": 0,
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  {
+    "product_id": "P012",
+    "product_name": "QuillBot",
+    "category": "AI Writing & Productivity Tools",
+    "launch_date": "2020-10-26",
+    "url": "https://www.producthunt.com/products/quillbot",
+    "description": "QuillBot is state-of-the-art paraphraser. It uses machine learning to completely reword and restructure full sentences while maintaining original meaning.",
+    "comments": [
+      {
+        "doc_id": "P012_C1",
+        "subproduct_name": "QuillBot",
+        "text": "Occasionally inaccurate AI detection results undermine trust in the tool.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P012_C2",
+        "subproduct_name": "QuillBot",
+        "text": "Some outputs produce more human-like grammatical structure.",
+        "comment_upvotes": 1,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P012_C3",
+        "subproduct_name": "QuillBot",
+        "text": "AI humanizer feature failed when re-tested in AI detector, indicating detection inconsistency.",
+        "comment_upvotes": 1,
+        "sentiment": "negative"
+      },
+      {
+        "doc_id": "P012_C4",
+        "subproduct_name": "QuillBot",
+        "text": "I have been using QuillBot for many months and it helps transform long boring writing into short and creative content.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P012_C5",
+        "subproduct_name": "QuillBot",
+        "text": "The paraphrasing tool is very helpful for improving the clarity and flow of my writing.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P012_C6",
+        "subproduct_name": "QuillBot",
+        "text": "QuillBot is one of the most helpful writing companion tools I have used.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P012_C7",
+        "subproduct_name": "QuillBot",
+        "text": "Great tool with features like grammar checker, paraphraser, and summarizer. Very helpful for non-native English speakers.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P012_C8",
+        "subproduct_name": "QuillBot",
+        "text": "I have been using QuillBot for a few months and the tool keeps improving with helpful developer support.",
+        "comment_upvotes": 2,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P012_C9",
+        "subproduct_name": "QuillBot",
+        "text": "The AI detection tool is quick and provides a clean interface for checking content.",
+        "comment_upvotes": 1,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P012_C10",
+        "subproduct_name": "QuillBot",
+        "text": "QuillBot saves a lot of writing time.",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P012_C11",
+        "subproduct_name": "QuillBot",
+        "text": "The paraphrasing feature works very well and helps improve existing content.",
+        "comment_upvotes": 3,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P012_C12",
+        "subproduct_name": "QuillBot",
+        "text": "QuillBot is widely used by students and professionals for rewriting sentences and improving technical writing.",
+        "comment_upvotes": 2,
+        "sentiment": "neutral"
+      },
+      {
+        "doc_id": "P012_C13",
+        "subproduct_name": "QuillBot",
+        "text": "Just tried it on my latest article and it works great for blog writing.",
+        "comment_upvotes": 2,
+        "sentiment": "positive"
+      },
+      {
+        "doc_id": "P012_C14",
+        "subproduct_name": "QuillBot",
+        "text": "Grammar corrections sometimes flagged as AI plagiarism incorrectly.",
+        "comment_upvotes": 0,
+        "sentiment": "negative"
+      }
+    ]
+  }
+]
